@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://yogesh-pal.netlify.app/](https://yogesh-pal.netlify.app/)
 
-- 📫 How to reach me **YOGESHPAL1309@GMAIL.COM**
+- 📫 How to reach me **yogeshpal1309@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
