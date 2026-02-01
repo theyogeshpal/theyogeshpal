@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <h3>✨ Full Stack Developer | Java | React | Spring Boot ✨</h3>
+  <h3>✨ Full Stack Developer | Dot Net Core | Java | React | Spring Boot ✨</h3>
   <p align="center">
     <a href="https://yogesh-pal.netlify.app/"><img src="https://img.shields.io/badge/-Portfolio-black?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>
     <a href="mailto:yogeshpal1309@gmail.com"><img src="https://img.shields.io/badge/-Email-black?style=for-the-badge&logo=gmail&logoColor=white" /></a>
