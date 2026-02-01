@@ -86,9 +86,7 @@
   </table>
 </div>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=theyogeshpal&color=00d2ff&style=flat-square&label=Profile+Views" alt="Profile Views" />
-</div>
+
 
 <br/>
 
