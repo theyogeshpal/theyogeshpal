@@ -16,11 +16,22 @@
 
 ### 🚀 About Me
 
-- 🏢 I'm a **Full Stack Developer** passionate about building robust and scalable web applications.
-- 🌱 Currently mastering **ReactJS** and exploring advanced **Spring Boot** concepts.
-- 👨‍💻 All my projects are showcased at [my portfolio](https://yogesh-pal.netlify.app/).
-- 💬 Ask me about **Java, Spring, Angular, or SQL**.
-- 📫 How to reach me: **yogeshpal1309@gmail.com**
+<table border="0">
+  <tr>
+    <td width="70%">
+      <ul>
+        <li>🏢 I'm a <b>Full Stack Developer</b> passionate about building robust and scalable web applications.</li>
+        <li>🌱 Currently mastering <b>ReactJS</b> and exploring advanced <b>Spring Boot</b> concepts.</li>
+        <li>👨‍💻 All my projects are showcased at <a href="https://yogesh-pal.netlify.app/">my portfolio</a>.</li>
+        <li>💬 Ask me about <b>Java, Spring, Angular, or SQL</b>.</li>
+        <li>📫 How to reach me: <b>yogeshpal1309@gmail.com</b></li>
+      </ul>
+    </td>
+    <td width="30%" align="center">
+      <img src="Yogesh-Pal-Profile-Picture.png" width="150" style="border-radius: 50%;" />
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -75,7 +86,9 @@
   </table>
 </div>
 
-
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=theyogeshpal&color=00d2ff&style=flat-square&label=Profile+Views" alt="Profile Views" />
+</div>
 
 <br/>
 
